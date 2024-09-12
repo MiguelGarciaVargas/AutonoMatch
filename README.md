@@ -1,16 +1,25 @@
-# autono_match
+# AutonoMatch
 
-ProyectoFinal de Movil
+**AutonoMatch** is a mobile app inspired by Tinder's functionality, designed to connect people based on their preferences and interests. Developed as part of a mobile development course, the app provides a matching system, customizable profiles, and intuitive navigation.
 
-## Getting Started
+## 📱 App Screens
 
-This project is a starting point for a Flutter application.
+1. **Login Screen:**  
+   <br>
+   <img src="https://github.com/user-attachments/assets/6fc51d37-2f09-4efc-9787-c92f5120c55e" alt="Login" width="300"/>
 
-A few resources to get you started if this is your first Flutter project:
+2. **Registration Screen:**  
+   <br>
+   <img src="https://github.com/user-attachments/assets/f5f34683-82ea-4e28-a811-17183e4706fa" alt="Register" width="300"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. **User Profile Screen:**  
+   <br>
+   <img src="https://github.com/user-attachments/assets/56ffc8c4-bfa2-4db7-b30b-5b002d079f0d" alt="User Profile" width="300"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. **Swipe Screen:**  
+   <br>
+   <img src="https://github.com/user-attachments/assets/fcc6ed35-5207-4b75-b2e5-7365abace34e" alt="Swipes" width="300"/>
+
+5. **Matches Screen:**  
+   <br>
+   <img src="https://github.com/user-attachments/assets/e044a86c-ff95-4940-8287-0c5e597108bd" alt="Matches" width="300"/>
